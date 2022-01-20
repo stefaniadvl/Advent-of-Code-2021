@@ -43,7 +43,7 @@ def parte_2(profundidade):
             aumenta_soma += 1
 
     print("PARTE 2:\n"
-          "O número de vezes em que a soma de 3 profundidades é maior que a soma anterior é {}.".format(aumenta_soma))
+          f"O número de vezes em que a soma de 3 profundidades é maior que a soma anterior é {aumenta_soma}.")
 
 # -------------------------------------------------------------------------------------------
 
